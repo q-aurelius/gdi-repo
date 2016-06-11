@@ -1,2 +1,4 @@
 kittens are teh best!
 Fingolfin is the cat.
+
+Feature branch change.
